@@ -32,7 +32,7 @@
  flex-wrap: wrap;
  column-gap: 1.5rem;
  row-gap: 1rem;
- justify-content: center;
+ /* justify-content: center; */
 }
 
 .eventos__item{
@@ -46,9 +46,10 @@
 }
 
 /* AGENDA */
+
 .agenda__lista{
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     flex-wrap: wrap;
     gap: 0.5rem 1rem;
 }

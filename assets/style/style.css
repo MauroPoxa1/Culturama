@@ -19,6 +19,8 @@
 body {
     font-family: var(--fonte-primaria);
     height: 100vh;
+    display: block;
+    margin: 0 auto;
 }
 
 /*Estilos compartilhados*/
